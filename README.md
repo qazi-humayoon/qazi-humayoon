@@ -1,5 +1,5 @@
 - 👋I'm @qazi-humayoon
-- 🔭 I’m interested in Data Science.
+- 🔭 I’m interested in Data Science and Web Development.
 - 🌱 I’m currently learning Data Analytics
 - 👯 I’m looking to collaborate on ML and Web-Development Projects
 - 📫 How to reach me: qazi.humayoon687@gmail.com
