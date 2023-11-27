@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://humayoon-niyaz.netlify.app/](https://humayoon-niyaz.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://humayoon-niyaz.netlify.app/]https://humayoon-niyaz.netlify.app/)
 
 - 💬 Ask me about **Data Science, Web Dev, Analysis**
 
