@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **qazi.humayoon687@gmail.com**
 
-- 📄 Know about my experiences [https://humayoon-niyaz.netlify.app/](https://humayoon-niyaz.netlify.app/)
+- 📄 Know about my experiences [Portfolio](https://humayoon-niyaz.netlify.app/)
 
 - ⚡ Fun fact **Octopuses have three hearts and blue blood!**
 
