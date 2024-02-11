@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qazi-humayoon&label=Profile%20views&color=0e75b6&style=flat" alt="qazi-humayoon" /> </p>
 
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Data Science, Web Dev, Analysis**
 
