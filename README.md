@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Data Science, Web Dev, Analysis**
+- 💬 Ask me about **Data Science, Web Dev, Analytics**
 
 - 📫 How to reach me **qazi.humayoon687@gmail.com**
 
